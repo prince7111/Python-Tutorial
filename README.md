@@ -1,1 +1,2 @@
-Python-Tutorial:complete Basic chapter of Python Language (sem3);
+Python Programing Language (III semester subjects) :Python tutorial
+
