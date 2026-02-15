@@ -1,5 +1,0 @@
-print("Hello World")
-print("My name is 'prince'", "I am 20 year old")
-print("javaoc devloper")
-print(39+5)
-print ()
